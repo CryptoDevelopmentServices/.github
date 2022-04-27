@@ -10,4 +10,4 @@ CDS team consists of developers with different development skill sets which prov
 ### Social Media Stats
 * CDS GitHub [![GitHub Followers](https://img.shields.io/github/followers/CryptoDevelopmentServices?style=social)](https://github.com/CryptoDevelopmentServices)
 * CDS Twitter [![Twitter Followers](https://img.shields.io/twitter/follow/CryptoDevelopm3?style=social)](https://twitter.com/CryptoDevelopm3)
-* CDS Reddit [![Reddit Followers](https://img.shields.io/Reddit/follow/CryptoDevelopment_CDS?style=social)](https://www.reddit.com/r/CryptoDevelopment_CDS)
+* CDS Reddit [![Reddit Followers](https://img.shields.io/reddit/subreddit-subscribers/CryptoDevelopment_CDS?style=social)](https://www.reddit.com/r/CryptoDevelopment_CDS)
