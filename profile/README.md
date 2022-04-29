@@ -7,9 +7,19 @@ CDS team consists of developers with different development skill sets which prov
 ### Where can I buy CDS
 You can buy CDS from 
 * PancakeSwap using [BNB](https://pancakeswap.finance/swap?inputCurrency=0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c&outputCurrency=0x23f07a1c03e7c6d0c88e0e05e79b6e3511073fd5) or [BUSD](https://pancakeswap.finance/swap?inputCurrency=0xe9e7cea3dedca5984780bafc599bd69add087d56&outputCurrency=0x23f07a1c03e7c6d0c88e0e05e79b6e3511073fd5)
-* ApeSwap using [BNB](https://apeswap.finance/swap?inputCurrency=0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c&outputCurrency=0x23f07a1c03e7c6d0c88e0e05e79b6e3511073fd5), [BUSD](https://apeswap.finance/swap?inputCurrency=0xe9e7cea3dedca5984780bafc599bd69add087d56&outputCurrency=0x23f07a1c03e7c6d0c88e0e05e79b6e3511073fd5) or [MATIC](https://apeswap.finance/swap?outputCurrency=0x23f07a1c03e7c6d0c88e0e05e79b6e3511073fd5) 
-* AmpleSwap using [BNB](https://ampleswap.com/swap?inputCurrency=0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c&outputCurrency=0x23f07a1c03e7c6d0c88e0e05e79b6e3511073fd5) or [BUSD](https://ampleswap.com/swap?inputCurrency=0xe9e7cea3dedca5984780bafc599bd69add087d56&outputCurrency=0x23f07a1c03e7c6d0c88e0e05e79b6e3511073fd5),
+* YieldFields using [BNB](https://yieldfields.finance/swap?inputCurrency=0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c&outputCurrency=0x23f07a1c03e7c6d0c88e0e05e79b6e3511073fd5) or [BUSD](https://yieldfields.finance/swap?inputCurrency=0xe9e7cea3dedca5984780bafc599bd69add087d56&outputCurrency=0x23f07a1c03e7c6d0c88e0e05e79b6e3511073fd5)
+* ApeSwap using [BNB](https://apeswap.finance/swap?inputCurrency=0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c&outputCurrency=0x23f07a1c03e7c6d0c88e0e05e79b6e3511073fd5), [BUSD](https://apeswap.finance/swap?inputCurrency=0xe9e7cea3dedca5984780bafc599bd69add087d56&outputCurrency=0x23f07a1c03e7c6d0c88e0e05e79b6e3511073fd5) or [MATIC](https://apeswap.finance/swap?outputCurrency=0x23f07a1c03e7c6d0c88e0e05e79b6e3511073fd5) `Please note for Matic, you need to be on that network` 
+* AmpleSwap using [BNB](https://ampleswap.com/swap?inputCurrency=0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c&outputCurrency=0x23f07a1c03e7c6d0c88e0e05e79b6e3511073fd5) or [BUSD](https://ampleswap.com/swap?inputCurrency=0xe9e7cea3dedca5984780bafc599bd69add087d56&outputCurrency=0x23f07a1c03e7c6d0c88e0e05e79b6e3511073fd5)
+* Pangolin using [AVAX](https://app.pangolin.exchange/#/swap?outputCurrency=0x23f07a1c03e7c6d0c88e0e05e79b6e3511073fd5) `Please note for Avax, you need to be on that network` 
 
+### Where can I see the price of CDS?
+You can view the price of CDS on [CoinGecko](https://www.coingecko.com/en/coins/crypto-development-services)
+
+### What has CDS accomplished since it's creation?
+You can view that via our [roadmap](https://www.cryptodevservices.com/roadmap.html), this shows everything we have done so far
+
+### View all FAQ
+You can view all the [FAQ](https://www.cryptodevservices.com/faq.html) here
 
 ### Server Stats
 * CryptoDevelopmentServices [![Discord](https://img.shields.io/discord/820375466271178762)](https://discord.gg/xUZNT9Zzcp)
@@ -22,4 +32,4 @@ You can buy CDS from
 
 ### Like our work? buy us a coffee
 CryptoCurrency Accepted [Here](https://cryptocurrencycheckout.com/donate/PQQBaSL7u1)  
-**__BTC__**,**__LTC__** or **__CDS__** is usable threw this link
+**__BTC__**, **__LTC__** or **__CDS__** is usable threw this link
