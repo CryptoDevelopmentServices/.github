@@ -32,4 +32,4 @@ You can view all the [FAQ](https://www.cryptodevservices.com/faq.html) here
 
 ### Like our work? buy us a coffee
 CryptoCurrency Accepted [Here](https://cryptocurrencycheckout.com/donate/PQQBaSL7u1)  
-**__BTC__**, **__LTC__** or **__CDS__** is usable threw this link
+**__BTC__**, **__LTC__** or **__CDS__** is usable through this link
