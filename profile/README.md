@@ -7,7 +7,7 @@ CDS team consists of developers with different development skill sets which prov
 ### What languages do we use?
 We use a mixture of different coding languages (`See badges below for more information`)
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+![React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ### Where can I buy CDS
 You can buy CDS from these `DEX`
