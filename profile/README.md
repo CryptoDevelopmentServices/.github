@@ -4,13 +4,24 @@ Crypto Development Services (CDS) is a token created by a small bunch of develop
 
 CDS team consists of developers with different development skill sets which provides a solid core team to help and encourage new developers to grow and giving them the resources to be successful.
 
+### What languages do we use?
+We use a mixture of different coding languages (`See badges below for more information`)
+
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+
 ### Where can I buy CDS
-You can buy CDS from 
+You can buy CDS from these `DEX`
 * PancakeSwap using [BNB](https://pancakeswap.finance/swap?inputCurrency=0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c&outputCurrency=0x23f07a1c03e7c6d0c88e0e05e79b6e3511073fd5) or [BUSD](https://pancakeswap.finance/swap?inputCurrency=0xe9e7cea3dedca5984780bafc599bd69add087d56&outputCurrency=0x23f07a1c03e7c6d0c88e0e05e79b6e3511073fd5)
 * YieldFields using [BNB](https://yieldfields.finance/swap?inputCurrency=0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c&outputCurrency=0x23f07a1c03e7c6d0c88e0e05e79b6e3511073fd5) or [BUSD](https://yieldfields.finance/swap?inputCurrency=0xe9e7cea3dedca5984780bafc599bd69add087d56&outputCurrency=0x23f07a1c03e7c6d0c88e0e05e79b6e3511073fd5)
 * ApeSwap using [BNB](https://apeswap.finance/swap?inputCurrency=0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c&outputCurrency=0x23f07a1c03e7c6d0c88e0e05e79b6e3511073fd5), [BUSD](https://apeswap.finance/swap?inputCurrency=0xe9e7cea3dedca5984780bafc599bd69add087d56&outputCurrency=0x23f07a1c03e7c6d0c88e0e05e79b6e3511073fd5) or [MATIC](https://apeswap.finance/swap?outputCurrency=0x23f07a1c03e7c6d0c88e0e05e79b6e3511073fd5) `Please note for Matic, you need to be on that network` 
 * AmpleSwap using [BNB](https://ampleswap.com/swap?inputCurrency=0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c&outputCurrency=0x23f07a1c03e7c6d0c88e0e05e79b6e3511073fd5) or [BUSD](https://ampleswap.com/swap?inputCurrency=0xe9e7cea3dedca5984780bafc599bd69add087d56&outputCurrency=0x23f07a1c03e7c6d0c88e0e05e79b6e3511073fd5)
 * Pangolin using [AVAX](https://app.pangolin.exchange/#/swap?outputCurrency=0x23f07a1c03e7c6d0c88e0e05e79b6e3511073fd5) `Please note for Avax, you need to be on that network` 
+
+Or you can buy CDS from one of these `CEX`
+* SouthXchange using [BNB](https://main.southxchange.com/Market/Book/CDS/BNB
+), [BUSD](https://main.southxchange.com/Market/Book/CDS/BUSD) or [BTC](https://main.southxchange.com/Market/Book/CDS/BTC)
+* TxBit using [BNB](https://txbit.io/Trade/CDS/BNB
+), [BTC](https://txbit.io/Trade/CDS/BTC) 
 
 ### Where can I see the price of CDS?
 You can view the price of CDS on [CoinGecko](https://www.coingecko.com/en/coins/crypto-development-services)
