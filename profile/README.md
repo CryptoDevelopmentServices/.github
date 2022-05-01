@@ -7,7 +7,7 @@ CDS team consists of developers with different development skill sets which prov
 ### What languages do we use?
 We use a mixture of different coding languages (`See badges below for more information`)
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 
 ### Where can I buy CDS
 You can buy CDS from these `DEX`
@@ -32,8 +32,11 @@ You can view that via our [roadmap](https://www.cryptodevservices.com/roadmap.ht
 ### View all FAQ
 You can view all the [FAQ](https://www.cryptodevservices.com/faq.html) here
 
+### CDS Social links
+[![GitHub Followers](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CryptoDevelopmentServices)[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xUZNT9Zzcp) [![Twitter Followers](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CryptoDevelopm3)
+
 ### Server Stats
-* CryptoDevelopmentServices [![Discord](https://img.shields.io/discord/820375466271178762)](https://discord.gg/xUZNT9Zzcp)
+* CryptoDevelopmentServices [![Discord](https://img.shields.io/discord/820375466271178762)](https://discord.gg/xUZNT9Zzcp) [![Twitter Followers](https://img.shields.io/twitter/follow/CryptoDevelopm3?style=social)](https://twitter.com/CryptoDevelopm3)
 
 ### Social Media Stats
 * CDS GitHub [![GitHub Followers](https://img.shields.io/github/followers/CryptoDevelopmentServices?style=social)](https://github.com/CryptoDevelopmentServices)
