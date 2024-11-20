@@ -18,22 +18,22 @@ We use a mixture of different coding languages (`See badges below for more infor
 
 ### Where can I buy CDS
 You can buy CDS from these `DEX`***Buy CDS from:***
-[Sushi swap](https://www.sushi.com/polygon/swap?token0=NATIVE&token1=0xF7B5991c676929BF98BF3E2e2e386789BB16912a)
-[QuickSwap](https://quickswap.exchange/#/swap?currency0=ETH&currency1=0xF7B5991c676929BF98BF3E2e2e386789BB16912a&swapIndex=0)
-[Matcha](https://matcha.xyz/tokens/polygon/0xf7b5991c676929bf98bf3e2e2e386789bb16912a?sellChain=137&sellAddress=0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee)
-[Dodo](https://app.dodoex.io/swap/network/polygon/137-MATIC/137-CDS)
-[OKX Dex](https://www.okx.com/web3/dex-swap?inputChain=137&inputCurrency=0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee&outputChain=137&outputCurrency=0xf7b5991c676929bf98bf3e2e2e386789bb16912a)
-[ParaSwap](https://app.paraswap.xyz/#/swap/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE-0xF7B5991c676929BF98BF3E2e2e386789BB16912a/0.475559/SELL?version=6.2&network=polygon)
-[KyberSwap](https://kyberswap.com/swap/polygon/pol-to-0xf7b5991c676929bf98bf3e2e2e386789bb16912a)
-[DefiLlama Swap](https://swap.defillama.com/?chain=polygon&from=0x0000000000000000000000000000000000000000&tab=swap&to=0xF7B5991c676929BF98BF3E2e2e386789BB16912a)
+* [Sushi swap](https://www.sushi.com/polygon/swap?token0=NATIVE&token1=0xF7B5991c676929BF98BF3E2e2e386789BB16912a)
+* [QuickSwap](https://quickswap.exchange/#/swap?currency0=ETH&currency1=0xF7B5991c676929BF98BF3E2e2e386789BB16912a&swapIndex=0)
+* [Matcha](https://matcha.xyz/tokens/polygon/0xf7b5991c676929bf98bf3e2e2e386789bb16912a?sellChain=137&sellAddress=0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee)
+* [Dodo](https://app.dodoex.io/swap/network/polygon/137-MATIC/137-CDS)
+* [OKX Dex](https://www.okx.com/web3/dex-swap?inputChain=137&inputCurrency=0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee&outputChain=137&outputCurrency=0xf7b5991c676929bf98bf3e2e2e386789bb16912a)
+* [ParaSwap](https://app.paraswap.xyz/#/swap/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE-0xF7B5991c676929BF98BF3E2e2e386789BB16912a/0.475559/SELL?version=6.2&network=polygon)
+* [KyberSwap](https://kyberswap.com/swap/polygon/pol-to-0xf7b5991c676929bf98bf3e2e2e386789bb16912a)
+* [DefiLlama Swap](https://swap.defillama.com/?chain=polygon&from=0x0000000000000000000000000000000000000000&tab=swap&to=0xF7B5991c676929BF98BF3E2e2e386789BB16912a)
 
 ### CDS Liquidity pool:
-[Sushi Swap](https://www.sushi.com/polygon/pool/v3/add?toCurrency=NATIVE&fromCurrency=0xF7B5991c676929BF98BF3E2e2e386789BB16912a&feeAmount=3000)
-[QuickSwap](https://quickswap.exchange/#/pools?currency0=0xF7B5991c676929BF98BF3E2e2e386789BB16912a&currency1=ETH)
+* [Sushi Swap](https://www.sushi.com/polygon/pool/v3/add?toCurrency=NATIVE&fromCurrency=0xF7B5991c676929BF98BF3E2e2e386789BB16912a&feeAmount=3000)
+* [QuickSwap](https://quickswap.exchange/#/pools?currency0=0xF7B5991c676929BF98BF3E2e2e386789BB16912a&currency1=ETH)
 
 ### Price Tracking:
-[Gecko Terminal](https://www.geckoterminal.com/polygon_pos/pools/0xd9628c1de426aae17908d18bb6124d565f89dad3) - Sushi Swap Liquidity Pool
-[Gecko Terminal](https://www.geckoterminal.com/polygon_pos/pools/0x7ff955d09691eff995c7477a68ef6bd362650ebc) - QuickSwap Liquidity Pool
+* [Gecko Terminal](https://www.geckoterminal.com/polygon_pos/pools/0xd9628c1de426aae17908d18bb6124d565f89dad3) - Sushi Swap Liquidity Pool
+* [Gecko Terminal](https://www.geckoterminal.com/polygon_pos/pools/0x7ff955d09691eff995c7477a68ef6bd362650ebc) - QuickSwap Liquidity Pool
 
 
 
